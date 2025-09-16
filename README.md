@@ -34,34 +34,32 @@ A modern and responsive **blog application** built with **Node.js**, **Express.j
 
 
 git clone https://github.com/Hariprasad137/Experimental-Blog-page.git
-Navigate to the project folder:
+
+2.Navigate to the project folder:
 
 cd Experimental-Blog-page
 
-
-Install dependencies:
+3.Install dependencies:
 
 npm install
 
 ⚡ Usage
 
-Start the server:
+1.Start the server:
 
 npm start
 
 
-Open your browser and go to:
+2.Open your browser and go to:
 
 http://localhost:3000
 
 
-You can now:
+3.You can now:
 
-View all posts on the home page
-
-Click New Post to create a post
-
-Edit or delete posts using the provided buttons
+-View all posts on the home page
+-Click New Post to create a post
+-Edit or delete posts using the provided buttons
 
 📁 File Structure
 Experimental-Blog-page/
@@ -79,15 +77,6 @@ app.js            # Main server file
 package.json
 README.md
 
-
-📸 Screenshots
-
-(Add screenshots here of your blog page, new post page, edit page, etc.)
-
-📝 License
-
-This project is open source and available under the MIT License
-.
 
 👨‍💻 Author
 
