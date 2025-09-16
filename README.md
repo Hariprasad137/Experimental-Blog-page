@@ -1,6 +1,5 @@
 # 📝 Experimental Blog Page
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-16-green?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express.js-4.18.2-lightgrey?logo=express&logoColor=black)](https://expressjs.com/)
 [![EJS](https://img.shields.io/badge/EJS-Templating-blue)](https://ejs.co/)
@@ -90,19 +89,7 @@ package.json
 README.md
 \`\`\`
 
----
 
-## 📸 Screenshots
-
-*(Add screenshots here of your blog page, new post page, edit page, etc.)*
-
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).  
-
----
 
 ## 👨‍💻 Author
 
