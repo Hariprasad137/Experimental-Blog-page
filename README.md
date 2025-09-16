@@ -32,7 +32,7 @@ A modern and responsive **blog application** built with **Node.js**, **Express.j
 
 1. Clone the repository:
 
-```bash
+
 git clone https://github.com/Hariprasad137/Experimental-Blog-page.git
 Navigate to the project folder:
 
@@ -65,22 +65,20 @@ Edit or delete posts using the provided buttons
 
 📁 File Structure
 Experimental-Blog-page/
-│
-├── views/
-│   ├── index.ejs        # Home page
-│   ├── new.ejs          # Create post page
-│   ├── edit.ejs         # Edit post page
-│   └── partials/
-│       ├── header.ejs
-│       └── footer.ejs
-│
-├── public/
-│   └── styles/
-│       └── main.css     # All styling
-│
-├── app.js               # Main server file
-├── package.json
-└── README.md
+views/
+  index.ejs        # Home page
+  new.ejs          # Create post page
+  edit.ejs         # Edit post page
+  partials/
+    header.ejs
+    footer.ejs
+public/
+  styles/
+    main.css       # All styling
+app.js            # Main server file
+package.json
+README.md
+
 
 📸 Screenshots
 
