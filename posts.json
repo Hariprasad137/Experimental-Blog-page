@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1758019029805,
+    "title": "Welcome To My Blog Page",
+    "description": "This is just an Experimental Website that i decided to create using what i learned About EJs, Express and Node. As this is an Experiment the Functionality is Limited, This blog page will be further updated and deployed as a new page keeping this as it is to see my progression in Web Development"
+  },
+  {
+    "id": 1758020327903,
+    "title": "About this Page",
+    "description": "This Page is built by me except the CSS since my main goal was to create a page with what i learned at this time i.e EJs, Express, Node."
+  }
+]

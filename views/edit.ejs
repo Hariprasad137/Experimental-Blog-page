@@ -1,0 +1,14 @@
+<%- include("partials/header.ejs") %>
+
+<div class="container">
+  <form action="/edit/<%= post.id %>" method="POST">
+    <label for="titleChange">Title:</label>
+    <input type="text" name="titleChange" value="<%= post.title %>" required />
+
+    <label for="descriptionChange">Description:</label>
+    <input type="text" name="descriptionChange" value="<%= post.description %>" required />
+
+    <button type="submit">Save Changes</button>
+  </form>
+</div>
+<%- include("partials/footer.ejs") %>
