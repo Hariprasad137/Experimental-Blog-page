@@ -5,7 +5,7 @@
 [![Express](https://img.shields.io/badge/Express.js-4.18.2-lightgrey?logo=express&logoColor=black)](https://expressjs.com/)
 [![EJS](https://img.shields.io/badge/EJS-Templating-blue)](https://ejs.co/)
 
-A modern and responsive **blog application** built with **Node.js**, **Express.js**, and **EJS**. Users can create, edit, and delete blog posts dynamically.  
+A modern and responsive **blog application** built with **Node.js**, **Express.js**, and **EJS**. Users can create, edit, and delete blog posts dynamically.
 
 ---
 
@@ -32,36 +32,48 @@ A modern and responsive **blog application** built with **Node.js**, **Express.j
 
 1. Clone the repository:
 
-
+\`\`\`bash
 git clone https://github.com/Hariprasad137/Experimental-Blog-page.git
+\`\`\`
 
-2.Navigate to the project folder:
+2. Navigate to the project folder:
 
+\`\`\`bash
 cd Experimental-Blog-page
+\`\`\`
 
-3.Install dependencies:
+3. Install dependencies:
 
+\`\`\`bash
 npm install
+\`\`\`
 
-⚡ Usage
+---
 
-1.Start the server:
+## ⚡ Usage
 
+1. Start the server:
+
+\`\`\`bash
 npm start
+\`\`\`
 
+2. Open your browser and go to:
 
-2.Open your browser and go to:
-
+\`\`\`
 http://localhost:3000
+\`\`\`
 
+3. You can now:
+   - View all posts on the home page  
+   - Click **New Post** to create a post  
+   - Edit or delete posts using the provided buttons  
 
-3.You can now:
+---
 
--View all posts on the home page
--Click New Post to create a post
--Edit or delete posts using the provided buttons
+## 📁 File Structure
 
-📁 File Structure
+\`\`\`
 Experimental-Blog-page/
 views/
   index.ejs        # Home page
@@ -76,8 +88,23 @@ public/
 app.js            # Main server file
 package.json
 README.md
+\`\`\`
 
+---
 
-👨‍💻 Author
+## 📸 Screenshots
 
-Hariprasad
+*(Add screenshots here of your blog page, new post page, edit page, etc.)*
+
+---
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).  
+
+---
+
+## 👨‍💻 Author
+
+**Hariprasad**  
+[![GitHub](https://img.shields.io/badge/GitHub-Hariprasad137-181717?logo=github&logoColor=white)](https://github.com/Hariprasad137)
