@@ -66,5 +66,5 @@ app.post("/delete/:id", (req, res) => {
   });
 });
 app.listen(PORT, () => {
-  console.log(`Server listening on ${port}`);
+  console.log(`Server listening on ${PORT}`);
 });
